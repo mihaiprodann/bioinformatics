@@ -1,6 +1,6 @@
 <?php
 
-$input = "AUBSDABSDNSBBS";
+$input = "AUBSDABSDNSBSBS";
 
 function getUniqueCharacters($str)
 {
